@@ -1,0 +1,201 @@
+LOCUS       NP_000024                745 aa            linear   PRI 13-NOV-2023
+DEFINITION  ATP-binding cassette sub-family D member 1 [Homo sapiens].
+ACCESSION   NP_000024
+VERSION     NP_000024.2
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+DBSOURCE    REFSEQ: accession NM_000033.4
+REFERENCE   1  (residues 1 to 745)
+  AUTHORS   Xiong C, Jia LN, Xiong WX, Wu XT, Xiong LL, Wang TH, Zhou D, Hong Z,
+            Liu Z and Tang L.
+  TITLE     Structural insights into substrate recognition and translocation of
+            human peroxisomal ABC transporter ALDP
+  JOURNAL   Signal Transduct Target Ther 8 (1), 74 (2023)
+   PUBMED   36810450
+  REMARK    GeneRIF: Structural insights into substrate recognition and
+            translocation of human peroxisomal ABC transporter ALDP. Publication
+            Status: Online-Only
+REFERENCE   2  (residues 1 to 745)
+  AUTHORS   Jia Y, Zhang Y, Wang W, Lei J, Ying Z and Yang G.
+  TITLE     Structural and functional insights of the human peroxisomal ABC
+            transporter ALDP
+  JOURNAL   Elife 11, e75039 (2022)
+   PUBMED   36374178
+  REMARK    GeneRIF: Structural and functional insights of the human peroxisomal
+            ABC transporter ALDP. Publication Status: Online-Only
+REFERENCE   3  (residues 1 to 745)
+  AUTHORS   Chen ZP, Xu D, Wang L, Mao YX, Li Y, Cheng MT, Zhou CZ, Hou WT and
+            Chen Y.
+  TITLE     Structural basis of substrate recognition and translocation by human
+            very long-chain fatty acid transporter ABCD1
+  JOURNAL   Nat Commun 13 (1), 3299 (2022)
+   PUBMED   35676282
+  REMARK    GeneRIF: Structural basis of substrate recognition and translocation
+            by human very long-chain fatty acid transporter ABCD1. Publication
+            Status: Online-Only
+REFERENCE   4  (residues 1 to 745)
+  AUTHORS   Mallack EJ, Gao K, Engelen M and Kemp S.
+  TITLE     Structure and Function of the ABCD1 Variant Database: 20 Years, 940
+            Pathogenic Variants, and 3400 Cases of Adrenoleukodystrophy
+  JOURNAL   Cells 11 (2), 283 (2022)
+   PUBMED   35053399
+  REMARK    GeneRIF: Structure and Function of the ABCD1 Variant Database: 20
+            Years, 940 Pathogenic Variants, and 3400 Cases of
+            Adrenoleukodystrophy. Publication Status: Online-Only
+REFERENCE   5  (residues 1 to 745)
+  AUTHORS   Kok F, Neumann S, Sarde CO, Zheng S, Wu KH, Wei HM, Bergin J,
+            Watkins PA, Gould S, Sack G et al.
+  TITLE     Mutational analysis of patients with X-linked adrenoleukodystrophy
+  JOURNAL   Hum Mutat 6 (2), 104-115 (1995)
+   PUBMED   7581394
+REFERENCE   6  (residues 1 to 745)
+  AUTHORS   Vanderver,A., Tonduti,D., Schiffmann,R., Schmidt,J. and van der
+            Knaap,M.S.
+  TITLE     Leukodystrophy Overview - RETIRED CHAPTER, FOR HISTORICAL REFERENCE
+            ONLY
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   24501781
+REFERENCE   7  (residues 1 to 745)
+  AUTHORS   Raymond,G.V., Moser,A.B. and Fatemi,A.
+  TITLE     X-Linked Adrenoleukodystrophy
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301491
+REFERENCE   8  (residues 1 to 745)
+  AUTHORS   Feil R, Aubourg P, Mosser J, Douar AM, Le Paslier D, Philippe C and
+            Mandel JL.
+  TITLE     Adrenoleukodystrophy: a complex chromosomal rearrangement in the
+            Xq28 red/green-color-pigment gene region indicates two possible gene
+            localizations
+  JOURNAL   Am J Hum Genet 49 (6), 1361-1371 (1991)
+   PUBMED   1746561
+REFERENCE   9  (residues 1 to 745)
+  AUTHORS   Moser,H.W., Moser,A.E., Singh,I. and O'Neill,B.P.
+  TITLE     Adrenoleukodystrophy: survey of 303 cases: biochemistry, diagnosis,
+            and therapy
+  JOURNAL   Ann Neurol 16 (6), 628-641 (1984)
+   PUBMED   6524872
+REFERENCE   10  (residues 1 to 745)
+  AUTHORS   Migeon,B.R., Moser,H.W., Moser,A.B., Axelman,J., Sillence,D. and
+            Norum,R.A.
+  TITLE     Adrenoleukodystrophy: evidence for X linkage, inactivation, and
+            selection favoring the mutant allele in heterozygous cells
+  JOURNAL   Proc Natl Acad Sci U S A 78 (8), 5066-5070 (1981)
+   PUBMED   6795626
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC025358.1, Z21876.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1966682 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000218104.6/ ENSP00000218104.3
+            RefSeq Select criteria      :: based on conservation, expression
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from U52111.3, BC025358.1 and
+            BC015541.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Mar 17, 2000 this sequence version replaced NP_000024.1.
+            Summary: The protein encoded by this gene is a member of the
+            superfamily of ATP-binding cassette (ABC) transporters. ABC
+            proteins transport various molecules across extra- and
+            intra-cellular membranes. ABC genes are divided into seven distinct
+            subfamilies (ABC1, MDR/TAP, MRP, ALD, OABP, GCN20, White). This
+            protein is a member of the ALD subfamily, which is involved in
+            peroxisomal import of fatty acids and/or fatty acyl-CoAs in the
+            organelle. All known peroxisomal ABC transporters are half
+            transporters which require a partner half transporter molecule to
+            form a functional homodimeric or heterodimeric transporter. This
+            peroxisomal membrane protein is likely involved in the peroxisomal
+            transport or catabolism of very long chain fatty acids. Defects in
+            this gene have been identified as the underlying cause of
+            adrenoleukodystrophy, an X-chromosome recessively inherited
+            demyelinating disorder of the nervous system. [provided by RefSeq,
+            Jul 2008].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..745
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xq28"
+     Protein         1..745
+                     /product="ATP-binding cassette sub-family D member 1"
+                     /EC_number="7.6.2.4"
+                     /note="adrenoleukodystrophy protein; ATP-binding cassette,
+                     sub-family D (ALD), member 1"
+                     /calculated_mol_wt="82806"
+     Region          1..681
+                     /region_name="3a01203"
+                     /note="Peroxysomal Fatty Acyl CoA Transporter (FAT) Family
+                     protein; TIGR00954"
+                     /db_xref="CDD:273360"
+     Region          67..186
+                     /region_name="Interaction with PEX19.
+                     /evidence=ECO:0000269|PubMed:10777694"
+                     /note="propagated from UniProtKB/Swiss-Prot (P33897.2)"
+     Region          67..84
+                     /region_name="PEX19 binding site and required for
+                     peroxisomal targeting.
+                     /evidence=ECO:0000269|PubMed:15781447"
+                     /note="propagated from UniProtKB/Swiss-Prot (P33897.2)"
+     Site            92..112
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (P33897.2)"
+     Site            131..151
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (P33897.2)"
+     Site            214
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from UniProtKB/Swiss-Prot
+                     (P33897.2)"
+     Site            238..258
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (P33897.2)"
+     Site            333..353
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (P33897.2)"
+     Site            473..493
+                     /site_type="transmembrane region"
+                     /note="propagated from UniProtKB/Swiss-Prot (P33897.2)"
+     Region          658..745
+                     /region_name="Required for homodimerization.
+                     /evidence=ECO:0000269|PubMed:17609205"
+                     /note="propagated from UniProtKB/Swiss-Prot (P33897.2)"
+     Site            733
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:18691976; propagated from
+                     UniProtKB/Swiss-Prot (P33897.2)"
+     CDS             1..745
+                     /gene="ABCD1"
+                     /gene_synonym="ABC42; ALD; ALDP; AMN"
+                     /coded_by="NM_000033.4:412..2649"
+                     /db_xref="CCDS:CCDS14728.1"
+                     /db_xref="GeneID:215"
+                     /db_xref="HGNC:HGNC:61"
+                     /db_xref="MIM:300371"
+ORIGIN
+        1 mpvlsrprpw rgntlkrtav llalaaygah kvyplvrqcl aparglqapa geptqeasgv
+       61 aaakagmnrv flqrllwllr llfprvlcre tgllalhsaa lvsrtflsvy varldgrlar
+      121 civrkdpraf gwqllqwlli alpatfvnsa irylegqlal sfrsrlvaha yrlyfsqqty
+      181 yrvsnmdgrl rnpdqslted vvafaasvah lysnltkpll dvavtsytll raarsrgagt
+      241 awpsaiaglv vfltanvlra fspkfgelva eearrkgelr ymhsrvvans eeiafygghe
+      301 velallqrsy qdlasqinli llerlwyvml eqflmkyvws asgllmvavp iitatgyses
+      361 daeavkkaal ekkeeelvse rteaftiarn lltaaadaie rimssykevt elagytarvh
+      421 emfqvfedvq rchfkrprel edaqagsgti grsgvrvegp lkirgqvvdv eqgiicenip
+      481 ivtpsgevvv aslnirveeg mhllitgpng cgksslfril gglwptyggv lykpppqrmf
+      541 yipqrpymsv gslrdqviyp dsvedmqrkg yseqdleail dvvhlhhilq reggweamcd
+      601 wkdvlsggek qrigmarmfy hrpkyallde ctsavsidve gkifqaakda giallsithr
+      661 pslwkyhthl lqfdgeggwk fekldsaarl slteekqrle qqlagipkmq rrlqelcqil
+      721 geavapahvp apspqgpggl qgast
+//
