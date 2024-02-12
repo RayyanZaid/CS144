@@ -1,9 +1,23 @@
+
+
+# Globals 
+
+minSimilaritiesForBBR = 40
+
+
 class Read:
 
     def __init__(self, name : str, sequence : str) -> None:
         
         self.name = name
         self.sequence = sequence
+
+        self.BBR_Name : str = None
+        self.BBR_Sequence : str = None
+
+        self.MaxBBR_Length : int = minSimilaritiesForBBR
+
+        
 
 
 
@@ -65,5 +79,4 @@ if __name__ == '__main__':
 
     readObjects = fastaToRead.convertToReadObjects()
 
-    print()
 
